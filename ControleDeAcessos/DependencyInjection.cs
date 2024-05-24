@@ -1,8 +1,8 @@
-﻿using ControleDeAcessos.Data.Domain.Interfaces;
-using ControleDeAcessos.Repositories;
-using ControleDeAcessos.Services.Intefaces;
+﻿using ControleDeAcessos.Services.Intefaces;
 using ControleDeAcessos.Services;
 using Microsoft.Extensions.DependencyInjection;
+using ControleDeAcessos.Core.Interfaces;
+using ControleDeAcessos.Infrastructure.Data;
 
 namespace ControleDeAcessos;
 

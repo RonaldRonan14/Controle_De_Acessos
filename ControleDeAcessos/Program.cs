@@ -16,6 +16,6 @@ public static class Program
             .AddDependencyInjection()
             .BuildServiceProvider();
 
-        Application.Run(new View.AuthenticateView.Index(serviceProvider));
+        Application.Run(new Presentation.Forms.AuthenticateForm.Index(serviceProvider));
     }
 }
