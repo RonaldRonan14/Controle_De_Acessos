@@ -15,7 +15,7 @@ O Controle de Acessos é um programa desenvolvido em C# utilizando o framework .
 - **Framework:** .NET Core
 - **Plataforma:** Windows
 - **Ferramenta:** Windows Forms
-- **SGBD:** SQL Server
+- **Banco de dados:** MariaDb
 
 ## Como utilizar?
 
